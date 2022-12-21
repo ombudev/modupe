@@ -1,5 +1,5 @@
-# modupe
-A fictional React Developer portfolio website built with built using React and Bulma CSS. It is designed to be simple and intuitive for users to navigate.
+# Modupe
+A fictional React Developer portfolio website built using React and Bulma CSS. It is designed to be simple and intuitive for users to navigate.
 
 
 ## Built With
